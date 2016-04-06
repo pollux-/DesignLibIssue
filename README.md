@@ -1,0 +1,2 @@
+# DesignLibIssue
+This project to simulate the DesignSupportLibrary issue.  If we setError to the TextInputLayout in one Fragment, if we go to the other fragments by default showing in Error enabled state. Ones the error is enabled, if we are using the different TextInputLayout in different fragment why that status is retaining. Only common things between the Two Fragment is they are Hosted in same Activity.
